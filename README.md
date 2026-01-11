@@ -110,23 +110,6 @@ Potential enhancements to further improve model performance:
 6. **Real-Time Sentiment**: Integrate live Twitter sentiment analysis for dynamic predictions
 7. **External Factors**: Include macroeconomic indicators, regulatory news, and market events
 
-## Usage
-
-To run this project:
-
-1. Clone the repository
-2. Install required dependencies: `pip install tensorflow keras pandas numpy scikit-learn matplotlib`
-3. Download the Bitcoin price dataset (BTC-USD.csv)
-4. Open and run the Jupyter notebook: `bitcoin-price-prediction-using-rnn-and-lstm.ipynb`
-
-## Disclaimer
-
-This project is for educational and research purposes only. Cryptocurrency markets are highly volatile and unpredictable. The predictions made by this model should not be used as financial advice or for making investment decisions. Always conduct thorough research and consult with financial professionals before investing.
-
-## License
-
-This project is available for educational and research purposes.
-
 ## Acknowledgments
 
 Dataset sourced from Yahoo Finance (BTC-USD historical data) and Twitter sentiment data for Bitcoin-related discussions.
